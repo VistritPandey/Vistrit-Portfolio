@@ -1,1 +1,1 @@
-link: vistritpandey.me
+link: http://vistritpandey.me/
