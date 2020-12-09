@@ -1,0 +1,194 @@
+{
+  "main": {
+    "name": "Vistrit Pandey",
+    "occupation": "Computer Science student at Drexel University",
+    "description": "Pursuing Front-end developer, with keen interest in app developement",
+    "image": "my pic.jpg",
+    "bio": "My name is Vistrit, I'm a pursuing Full Stack Web & App Developer. Currently I'm a Sophomore at Drexel University ",
+    "contactmessage": "Get in touch with me to know more about me",
+    "email": "vp453@drexel.edu",
+    "phone": "+1 267 721 0609",
+    "address": {
+      "street": "Race Street",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "19104"
+    },
+    "website": "https://www.vistrit-pandey.web.app",
+    "resumedownload": "https://drive.google.com/drive/folders/1_ZV8yvYhg1i5p1MMpC7FjrOxKmg3s-mo?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/vistritpandey?lang=en",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vistrit",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/iamvistrit/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/VistritPandey",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Drexel University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "2019 -- Present",
+        "description": "expected graduation in 2023"
+      }
+    ],
+    "work": [
+      {
+        "company": "My Sports Album",
+        "title": "Senior App Developer(StartUp)",
+        "years": "Novembver 2020 - Present",
+        "description": "Building an App for the company that will have a collection of Sports Cards and Card trading"
+      },
+      {
+        "company": "Veecon India",
+        "title": "IT Manager(Internship)",
+        "years": "June 2020 - October 2020",
+        "description": "Worked here as an IT Manager and managed their IT and website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "69%"
+      },
+      {
+        "name": "React Native",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJS, Firebase and Material UI.",
+        "image": "whatsapp.png",
+        "url": "https://vistrit-whatsapp.web.app"
+      },
+      {
+        "title": "Instagram Clone",
+        "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
+        "image": "instagram.png",
+        "url": "https://vistrit-insta.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook Clone built with ReactJS, Firebase and Material UI.",
+        "image": "facebook.png",
+        "url": "https://vistrit-facebook-clone.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS, Firebase and Material UI",
+        "image": "amazon.png",
+        "url": "https://vistrit-amaz0n.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "Google Clone built with ReactJS, Firebase and Material UI.",
+        "image": "google.png",
+        "url": "https://vistrit-goo.web.app/"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS, Firebase and Material UI.",
+        "image": "spotify.png",
+        "url": "https://vistrit-spotify.web.app/"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "Twitter Clone built with ReactJS, Firebase and Material UI.",
+        "image": "twitter.png",
+        "url": "https://vistrit-twitter.web.app/"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Discord Clone built with ReactJS, Redux, Firebase and Material UI",
+        "image": "discord.png",
+        "url": "https://vistrit-chat.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS, Firebase and Material UI",
+        "image": "airbnb.png",
+        "url": "https://vistrit-airbnb.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS, Firebase, TMDB API and Material UI",
+        "image": "netflix.png",
+        "url": "https://vistrit-netflix.web.app/"
+      },
+      {
+        "title": "Corona Tracker",
+        "category": "Corona Tracker built with ReactJS, Firebase and Material UI.",
+        "image": "corona.png",
+        "url": "https://rip-covid-tracker.web.app/"
+      },
+      {
+        "title": "Robinhood Clone",
+        "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
+        "image": "robinhood.png",
+        "url": "https://vistrit-robinhood.web.app/"
+      },
+      {
+        "title": "Zoom Clone",
+        "category": "Zoom Clone built with Node.js, Heroku and Socket.io .",
+        "image": "zoom.png",
+        "url": "https://aqueous-plains-97236.herokuapp.com/"
+      },
+      {
+        "title": "Chat App using React Native",
+        "category": "Chat App built with React Native and Firebase",
+        "image": "chat.png",
+        "url": "https://expo.io/@vistrit/projects/vistrit-chat-app"
+      },
+      {
+        "title": "Social App",
+        "category": "Social App built with React Native and Firebase",
+        "image": "social.png",
+        "url": "https://expo.io/@vistrit/projects/social"
+      },
+      {
+        "title": "Youtube Clone",
+        "category": "Youtube Clone built with ReactJS, Firebase and Material UI",
+        "image": "youtube.png",
+        "url": "https://vistrit-utube.web.app/"
+      }
+    ]
+  }
+  
+}
