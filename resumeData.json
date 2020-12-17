@@ -52,7 +52,7 @@
     "work": [
       {
         "company": "My Sports Album",
-        "title": "Senior App Developer(StartUp)",
+        "title": "Mobile App Developer(StartUp)",
         "years": "Novembver 2020 - Present",
         "description": "Building an App for the company that will have a collection of Sports Cards and Card trading"
       },
@@ -70,11 +70,11 @@
       },
       {
         "name": "Java",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Python",
-        "level": "65%"
+        "level": "75%"
       },
       {
         "name": "Git",
@@ -82,7 +82,7 @@
       },
       {
         "name": "React Native",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "Firebase",
