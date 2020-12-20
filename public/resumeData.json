@@ -171,6 +171,18 @@
         "url": "https://aqueous-plains-97236.herokuapp.com/"
       },
       {
+        "title": "Linkedin Clone",
+        "category": "Linkedin Clone built with ReactJS, Firebase, Redux and Material UI.",
+        "image": "linkedin.png",
+        "url": "https://vistrit-linkedin.web.app/"
+      },
+      {
+        "title": "Tinder Clone",
+        "category": "Tinder Clone built with ReactJS, Firebase and Material UI.",
+        "image": "tinder.png",
+        "url": "https://vistrit-tinder.web.app/"
+      },
+      {
         "title": "Chat App using React Native",
         "category": "Chat App built with React Native and Firebase",
         "image": "chat.png",
