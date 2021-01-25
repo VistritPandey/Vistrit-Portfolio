@@ -199,6 +199,18 @@
         "category": "Youtube Clone built with ReactJS, Firebase and Material UI",
         "image": "youtube.png",
         "url": "https://vistrit-utube.web.app/"
+      },
+      {
+        "title": "Gmail Clone",
+        "category": "Gmail Clone built with ReactJS, Firebase and Material UI.",
+        "image": "gmail.png",
+        "url": "https://vistrit-email.web.app/"
+      },
+      {
+        "title": "Snapchat Clone",
+        "category": "Snapchat Clone built with ReactJS, Firebase and Material UI.",
+        "image": "snapchat.png",
+        "url": "https://expo.io/@vistrit/projects/vistrit-chat-app"
       }
     ]
   }
