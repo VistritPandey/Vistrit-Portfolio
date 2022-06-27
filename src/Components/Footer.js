@@ -20,9 +20,6 @@ class Footer extends Component {
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>
 
-            <ul>
-              <li>Hope you liked my portfolio..</li>
-            </ul>
           </div>
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">

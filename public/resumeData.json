@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Vistrit Pandey",
-    "occupation": "Computer Science student at Drexel University",
-    "description": "Pursuing Front-end developer, with keen interest in app developement",
+    "occupation": "3rd year CS student at Drexel University",
+    "description": "Front-end developer, with keen interest in Human-Centered Design & Software Development",
     "image": "my pic.jpg",
-    "bio": "My name is Vistrit and currently I'm a Junior at Drexel University ",
+    "bio": "Hey I'm Vistrit and currently I'm a 3rd year Computer Science student at Drexel University",
     "contactmessage": "Get in touch with me",
     "email": "vp453@drexel.edu",
-    "phone": "+1 267 721 0609",
+    "phone": "",
     "address": {
-      "street": "Race Street",
+      "street": "",
       "city": "Philadelphia",
       "state": "Pennsylvania",
       "zip": "19104"
     },
     "website": "http://vistritpandey.live/",
-    "resumedownload": "resume_coop.pdf",
+    "resumedownload": "Resume_Vistrit.pdf",
     "social": [
       {
         "name": "twitter",
@@ -44,9 +44,9 @@
     "education": [
       {
         "school": "Drexel University",
-        "degree": "Bachelors in Computer Science",
-        "graduated": "2019 -- Present",
-        "description": "expected graduation in 2023"
+        "degree": "Bachelors of Science",
+        "graduated": "2019 -- 2023",
+        "description": "Major in Computer Science with Minor in Information Systems"
       }
     ],
     "work": [
@@ -61,38 +61,32 @@
         "title": "Full Stack Web Developer",
         "years": "February 2021 - February 2022",
         "description": "Working on the company's website for electric charging stations"
-      },
-      {
-        "company": "Veecon India",
-        "title": "IT Manager(Internship)",
-        "years": "June 2019 - October 2019",
-        "description": "Worked here as an IT Manager and managed their website."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
-      },
-      {
-        "name": "Java",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "90%"
       },
       {
-        "name": "Git",
-        "level": "69%"
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "C/C++",
+        "level": "80%"
       },
       {
         "name": "React Native",
-        "level": "75%"
+        "level": "80%"
       },
       {
-        "name": "Firebase",
-        "level": "90%"
+        "name": "Swift",
+        "level": "75%"
       }
     ]
   },
@@ -123,34 +117,10 @@
         "url": "https://vistrit-amaz0n.web.app/"
       },
       {
-        "title": "Google Clone",
-        "category": "Google Clone built with ReactJS, Firebase and Material UI.",
-        "image": "google.png",
-        "url": "https://vistrit-goo.web.app/"
-      },
-      {
-        "title": "Spotify Clone",
-        "category": "Spotify Clone built with ReactJS, Firebase and Material UI.",
-        "image": "spotify.png",
-        "url": "https://vistrit-spotify.web.app/"
-      },
-      {
         "title": "Twitter Clone",
         "category": "Twitter Clone built with ReactJS, Firebase and Material UI.",
         "image": "twitter.png",
         "url": "https://vistrit-twitter.web.app/"
-      },
-      {
-        "title": "Discord Clone",
-        "category": "Discord Clone built with ReactJS, Redux, Firebase and Material UI",
-        "image": "discord.png",
-        "url": "https://vistrit-chat.web.app/"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Airbnb Clone built with ReactJS, Firebase and Material UI",
-        "image": "airbnb.png",
-        "url": "https://vistrit-airbnb.web.app/"
       },
       {
         "title": "Corona Tracker",
