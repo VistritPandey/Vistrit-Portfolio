@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Vistrit Pandey",
-    "occupation": "3rd year CS student at Drexel University",
-    "description": "Front-end developer, with keen interest in Human-Centered Design & Software Development",
+    "occupation": "4th year CS student at Drexel University",
+    "description": "Software Developer, with keen interest in Human-Centered Design & Software Development",
     "image": "my pic.jpg",
-    "bio": "Hey I'm Vistrit and currently I'm a 3rd year Computer Science student at Drexel University",
+    "bio": "Hey I'm Vistrit and I'm a 4th year Computer Science student at Drexel University",
     "contactmessage": "Get in touch with me",
     "email": "vp453@drexel.edu",
     "phone": "",
@@ -15,7 +15,7 @@
       "zip": "19104"
     },
     "website": "http://vistritpandey.live/",
-    "resumedownload": "Resume_Vistrit.pdf",
+    "resumedownload": "Resume.pdf",
     "social": [
       {
         "name": "twitter",
@@ -45,22 +45,28 @@
       {
         "school": "Drexel University",
         "degree": "Bachelors of Science",
-        "graduated": "2019 -- 2023",
-        "description": "Major in Computer Science with Minor in Information Systems"
+        "graduated": "Fall 2019 - Summer 2023",
+        "description": "Major in Computer Science"
       }
     ],
     "work": [
       {
-        "company": "Unnamed Automotive Limited",
-        "title": "Web and Mobile App Developer Intern (COOP)",
+        "company": "Drexel University, College of Computing and Informatics",
+        "title": "Course Assistant",
+        "years": "September 2022 - Present",
+        "description": "Course Assistant for Introduction to Computer Science (CS - 164)"
+      },
+      {
+        "company": "The Unnamed Auto",
+        "title": "Web and Mobile App Developer co-op",
         "years": "August 2021 - March 2022",
-        "description": "Worked on building an app for company that will help people navigate using the company's HUD tech"
+        "description": "Used React Native, Python, Material UI and Unity Engine for the Frontend of the mobile app and also used Geo-location to show the closest charging points near the user, which can be customized based on the user’s preferences. Made a software that displays navigations on the user’s helmet, using Unity Engine and HUD technology to display directions from the user’s app"
       },
       {
         "company": "Hofars Energy",
-        "title": "Full Stack Web Developer",
-        "years": "February 2021 - February 2022",
-        "description": "Working on the company's website for electric charging stations"
+        "title": "Full Stack Developer",
+        "years": "March 2021 - August 2022",
+        "description": "Worked in a team to develop full stack web/mobile app in React.js, Python and MongoDB framework that serves 25000+ customers a month by helping them book services/products and also implemented Stripe CLI for payments and assisted new interns with React.js, React Native and WordPress and helped deliver projects on time"
       }
     ],
     "skills": [
