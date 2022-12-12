@@ -46,7 +46,7 @@
         "school": "Drexel University",
         "degree": "Bachelors of Science",
         "graduated": "Fall 2019 - Summer 2023",
-        "description": "Major in Computer Science"
+        "description": "Major in Computer Science, minor in Information Systems"
       }
     ],
     "work": [
@@ -54,19 +54,19 @@
         "company": "Drexel University, College of Computing and Informatics",
         "title": "Course Assistant",
         "years": "September 2022 - Present",
-        "description": "Course Assistant for Introduction to Computer Science (CS - 164)"
+        "description": "Clarified concepts of students and helped students with their assignments and helped with any software-related query. Held weekly office hours, provided continuous feedback and assisted the instructor in compiling coursework. Helped instructor in grading the assignments and labs of over 480 students"
       },
       {
         "company": "The Unnamed Auto",
         "title": "Web and Mobile App Developer co-op",
         "years": "August 2021 - March 2022",
-        "description": "Used React Native, Python, Material UI and Unity Engine for the Frontend of the mobile app and also used Geo-location to show the closest charging points near the user, which can be customized based on the user’s preferences. Made a software that displays navigations on the user’s helmet, using Unity Engine and HUD technology to display directions from the user’s app"
+        "description": "Used React Native, Python, Material-UI and Unity Engine for the Frontend of the mobile app. Used Geo-location to show the closest charging points near the user, which can be customized based on the user’s preferences and improved the loading time by almost 1.8 times by adding cache and adding advanced algorithm to existing code. Display navigations on the user’s helmet, using Unity Engine and HUD technology to display directions from the user’s app"
       },
       {
         "company": "Hofars Energy",
-        "title": "Full Stack Developer",
+        "title": "Full-Stack Software Developer",
         "years": "March 2021 - August 2022",
-        "description": "Worked in a team to develop full stack web/mobile app in React.js, Python and MongoDB framework that serves 25000+ customers a month by helping them book services/products and also implemented Stripe CLI for payments and assisted new interns with React.js, React Native and WordPress and helped deliver projects on time"
+        "description": "Worked in a team, as a full-stack software developer to develop full stack web/mobile app in React.js, Python, C and MongoDB framework that serves 25000+ customers a month by helping them book services/products and also implemented Stripe CLI for payments. Assisted new interns with Python, C, React.js, React Native and WordPress and helped deliver projects on time"
       }
     ],
     "skills": [
@@ -92,18 +92,16 @@
       },
       {
         "name": "Swift",
-        "level": "75%"
+        "level": "85%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "WhatsApp Clone",
-        "category": "WhatsApp Clone built with ReactJS, Firebase and Material UI.",
-        "image": "whatsapp.png",
-        "url": "https://vistrit-whatsapp.web.app"
-      },
       {
         "title": "Instagram Clone",
         "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
@@ -136,15 +134,9 @@
       },
       {
         "title": "Robinhood Clone",
-        "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
+        "category": "Robinhood Clone built with ReactJS, Firebase and Material UI.",
         "image": "robinhood.png",
         "url": "https://vistrit-robinhood.web.app/"
-      },
-      {
-        "title": "Linkedin Clone",
-        "category": "Linkedin Clone built with ReactJS, Firebase, Redux and Material UI.",
-        "image": "linkedin.png",
-        "url": "https://vistrit-linkedin.web.app/"
       },
       {
         "title": "Chat App using React Native",
@@ -157,18 +149,6 @@
         "category": "Social App built with React Native and Firebase",
         "image": "social.png",
         "url": "https://expo.io/@vistrit/projects/social"
-      },
-      {
-        "title": "Gmail Clone",
-        "category": "Gmail Clone built with ReactJS, Firebase and Material UI.",
-        "image": "gmail.png",
-        "url": "https://vistrit-email.web.app/"
-      },
-      {
-        "title": "Snapchat Clone",
-        "category": "Snapchat Clone built with ReactJS, Firebase and Material UI.",
-        "image": "snapchat.png",
-        "url": "https://expo.io/@vistrit/projects/vistrit-chat-app"
       }
     ]
   }
