@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Vistrit Pandey",
-    "occupation": "4th year CS student at Drexel University",
-    "description": "Software Developer, with keen interest in Human-Centered Design & Software Development",
+    "occupation": "software developer specializing in AI and Computer Vision",
+    "description": "With keen interest in Human-Centered Design & Software Development",
     "image": "my pic.jpg",
-    "bio": "Hey I'm Vistrit and I'm a 4th year Computer Science student at Drexel University",
+    "bio": "Hey I'm Vistrit and I'm a Philadelphia based Software Engineer",
     "contactmessage": "Get in touch with me",
-    "email": "vp453@drexel.edu",
-    "phone": "",
+    "email": "vistritpandey@gmail.com",
+    "phone": "+1 (215)-452-9375",
     "address": {
       "street": "",
       "city": "Philadelphia",
@@ -45,22 +45,22 @@
       {
         "school": "Drexel University",
         "degree": "Bachelors of Science",
-        "graduated": "Fall 2019 - Summer 2023",
-        "description": "Major in Computer Science, minor in Information Systems"
+        "graduated": "Sept 2019 - Sept 2023",
+        "description": "Major in Computer Science, Minor in Information Systems"
       }
     ],
     "work": [
       {
         "company": "Drexel University, College of Computing and Informatics",
         "title": "Course Assistant",
-        "years": "September 2022 - Present",
-        "description": "Clarified concepts of students and helped students with their assignments and helped with any software-related query. Held weekly office hours, provided continuous feedback and assisted the instructor in compiling coursework. Helped instructor in grading the assignments and labs of over 480 students"
+        "years": "September 2022 - September 2023",
+        "description": "Course Assistant for Introduction to Computer Science (CS-164),Computer Programming I & II (CS-171, CS-172), Computing and Informatics Design III (CI-103), Computational Photography (CS-435). Held weekly office hours, conducted labs, provided continuous feedback and assisted the instructor in compiling coursework. Helped instructor in grading the assignments and labs of over 500 students"
       },
       {
         "company": "The Unnamed Auto",
         "title": "Web and Mobile App Developer co-op",
         "years": "August 2021 - March 2022",
-        "description": "Used React Native, Python, Material-UI and Unity Engine for the Frontend of the mobile app. Used Geo-location to show the closest charging points near the user, which can be customized based on the user’s preferences and improved the loading time by almost 1.8 times by adding cache and adding advanced algorithm to existing code. Display navigations on the user’s helmet, using Unity Engine and HUD technology to display directions from the user’s app"
+        "description": "Used React Native, Python, Material-UI, ant-design for the Frontend of the mobile app. Used Geo-location to show the closest charging points near the user, which can be customized based on the user's preferences and improved the loading time by almost 1.8 times by adding cache and adding advanced algorithm to existing code. Display navigations on the user's helmet, using 3-D rendering and HUD technology to display directions from the user's app"
       },
       {
         "company": "Hofars Energy",
@@ -79,15 +79,15 @@
         "level": "90%"
       },
       {
-        "name": "Java",
-        "level": "80%"
+        "name": "React Native",
+        "level": "95%"
       },
       {
         "name": "C/C++",
         "level": "80%"
       },
       {
-        "name": "React Native",
+        "name": "Java",
         "level": "80%"
       },
       {
