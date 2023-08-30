@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/vistritpandey?lang=en",
+        "url": "https://twitter.com/viztrit?lang=en",
         "className": "fa fa-twitter"
       },
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/iamvistrit/",
+        "url": "https://www.instagram.com/viztrit/",
         "className": "fa fa-instagram"
       },
       {
@@ -67,6 +67,12 @@
         "title": "Full-Stack Software Developer",
         "years": "March 2021 - August 2022",
         "description": "Worked in a team, as a full-stack software developer to develop full stack web/mobile app in React.js, Python, C and MongoDB framework that serves 25000+ customers a month by helping them book services/products and also implemented Stripe CLI for payments. Assisted new interns with Python, C, React.js, React Native and WordPress and helped deliver projects on time"
+      },
+      {
+        "company": "Veecon",
+        "title": "Software Engineer",
+        "years": "June 2020 - March 2021",
+        "description": "Used Java, Angular, and JavaScript, to ensure high-performance and scalability. Built an end-to-end development of a comprehensive billing software and a dynamic website. Implemented efficient tools that played a pivotal role in driving a remarkable 4x increase in client acquisition, while also streamlining internal processes for optimum efficiency."
       }
     ],
     "skills": [
