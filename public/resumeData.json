@@ -2,8 +2,8 @@
   "main": {
     "name": "Vistrit Pandey",
     "occupation": "software developer specializing in AI and Computer Vision",
-    "description": "With keen interest in Human-Centered Design & Software Development",
-    "image": "my pic.jpg",
+    "description": "With keen interest in Artificial Intelligence & Software Development",
+    "image": "Vistrit.jpeg",
     "bio": "Hey I'm Vistrit and I'm a Philadelphia based Software Engineer",
     "contactmessage": "Get in touch with me",
     "email": "vistritpandey@gmail.com",
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/viztrit?lang=en",
+        "url": "https://twitter.com/viztrit",
         "className": "fa fa-twitter"
       },
       {
@@ -51,7 +51,13 @@
     ],
     "work": [
       {
-        "company": "Drexel University, College of Computing and Informatics",
+        "company": "Frisco ERP",
+        "title": "Software Engineer",
+        "years": "October 2023 - Present",
+        "description": "Worked with clients like Bridgestone and Boeing to automate ERP processes. Used technologies like React.js, Next.js, Typescript, AWS, etc. Led end-to-end development of a comprehensive AI pipeline and integrated it with SAP and JDA. Enhanced efficiency with the implementation of AI-tools, resulting in a 2x increase in client acquisition. Reduced the manual effort needed by 7 times"
+      },
+      {
+        "company": "Drexel University",
         "title": "Course Assistant",
         "years": "September 2022 - September 2023",
         "description": "Course Assistant for Introduction to Computer Science (CS-164),Computer Programming I & II (CS-171, CS-172), Computing and Informatics Design III (CI-103), Computational Photography (CS-435). Held weekly office hours, conducted labs, provided continuous feedback and assisted the instructor in compiling coursework. Helped instructor in grading the assignments and labs of over 500 students"
@@ -63,21 +69,19 @@
         "description": "Used React Native, Python, Material-UI, ant-design for the Frontend of the mobile app. Used Geo-location to show the closest charging points near the user, which can be customized based on the user's preferences and improved the loading time by almost 1.8 times by adding cache and adding advanced algorithm to existing code. Display navigations on the user's helmet, using 3-D rendering and HUD technology to display directions from the user's app"
       },
       {
-        "company": "Hofars Energy",
+        "company": "Hofars",
         "title": "Full-Stack Software Developer",
         "years": "March 2021 - August 2022",
         "description": "Worked in a team, as a full-stack software developer to develop full stack web/mobile app in React.js, Python, C and MongoDB framework that serves 25000+ customers a month by helping them book services/products and also implemented Stripe CLI for payments. Assisted new interns with Python, C, React.js, React Native and WordPress and helped deliver projects on time"
-      },
-      {
-        "company": "Veecon",
-        "title": "Software Engineer",
-        "years": "June 2020 - March 2021",
-        "description": "Used Java, Angular, and JavaScript, to ensure high-performance and scalability. Built an end-to-end development of a comprehensive billing software and a dynamic website. Implemented efficient tools that played a pivotal role in driving a remarkable 4x increase in client acquisition, while also streamlining internal processes for optimum efficiency."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React.js",
+        "level": "95%"
+      },
+      {
+        "name": "Next.js",
         "level": "90%"
       },
       {
@@ -85,12 +89,8 @@
         "level": "90%"
       },
       {
-        "name": "React Native",
-        "level": "95%"
-      },
-      {
-        "name": "C/C++",
-        "level": "80%"
+        "name": "JavaScript/TypeScript",
+        "level": "90%"
       },
       {
         "name": "Java",
@@ -108,6 +108,30 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Liaa",
+        "category": "A.I medical Scribe for doctors",
+        "image": "Liaa.png",
+        "url": "https://vistrit-insta.web.app/"
+      },
+      {
+        "title": "Meetext",
+        "category": "A.I meeting summarizer",
+        "image": "Meetext.png",
+        "url": "https://vistrit-insta.web.app/"
+      },
+      {
+        "title": "Eventrov",
+        "category": "Social Community for Event Organizers",
+        "image": "Eventrov.png",
+        "url": "https://www.eventrov.com"
+      },
+      {
+        "title": "Drexel University Website",
+        "category": "Senior Design Showcase for Drexel University",
+        "image": "Drexel.png",
+        "url": "https://main.d1wpd5xz8g1rvs.amplifyapp.com"
+      },
       {
         "title": "Instagram Clone",
         "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
@@ -131,30 +155,6 @@
         "category": "Twitter Clone built with ReactJS, Firebase and Material UI.",
         "image": "twitter.png",
         "url": "https://vistrit-twitter.web.app/"
-      },
-      {
-        "title": "Corona Tracker",
-        "category": "Corona Tracker built with ReactJS, Firebase and Material UI.",
-        "image": "corona.png",
-        "url": "https://rip-covid-tracker.web.app/"
-      },
-      {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS, Firebase and Material UI.",
-        "image": "robinhood.png",
-        "url": "https://vistrit-robinhood.web.app/"
-      },
-      {
-        "title": "Chat App using React Native",
-        "category": "Chat App built with React Native and Firebase",
-        "image": "chat.png",
-        "url": "https://expo.io/@vistrit/projects/vistrit-chat-app"
-      },
-      {
-        "title": "Social App",
-        "category": "Social App built with React Native and Firebase",
-        "image": "social.png",
-        "url": "https://expo.io/@vistrit/projects/social"
       }
     ]
   }
