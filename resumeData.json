@@ -4,15 +4,15 @@
     "occupation": "software developer specializing in AI and Computer Vision",
     "description": "With keen interest in Artificial Intelligence & Software Development",
     "image": "Vistrit.jpeg",
-    "bio": "Hey I'm Vistrit and I'm a Philadelphia based Software Engineer",
+    "bio": "Hey I'm Vistrit and I'm a Chicago based Software Engineer",
     "contactmessage": "Get in touch with me",
     "email": "vistritpandey@gmail.com",
     "phone": "+1 (215)-452-9375",
     "address": {
       "street": "",
-      "city": "Philadelphia",
-      "state": "Pennsylvania",
-      "zip": "19104"
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60661"
     },
     "website": "http://vistritpandey.live/",
     "resumedownload": "Resume.pdf",
@@ -51,9 +51,15 @@
     ],
     "work": [
       {
+        "company": "Blinkfire Analytics",
+        "title": "Software Engineer I (AI R&D)",
+        "years": "April 2024 - Present",
+        "description": "Worked on different Large Language Models (L.L.M.) like ChatGPT, Llama, Gemini, Anthropic. Used tools like Python, Kubernetes, Tensorflow, Docker, AWS to train our model. Used custom data to train our model for various datasets. Contributed to backend development and AI workflow. Collaborated in an agile development environment"
+      },
+      {
         "company": "Frisco ERP",
         "title": "Software Engineer",
-        "years": "October 2023 - Present",
+        "years": "October 2023 - March 2024",
         "description": "Worked with clients like Bridgestone and Boeing to automate ERP processes. Used technologies like React.js, Next.js, Typescript, AWS, etc. Led end-to-end development of a comprehensive AI pipeline and integrated it with SAP and JDA. Enhanced efficiency with the implementation of AI-tools, resulting in a 2x increase in client acquisition. Reduced the manual effort needed by 7 times"
       },
       {
@@ -67,12 +73,6 @@
         "title": "Web and Mobile App Developer co-op",
         "years": "August 2021 - March 2022",
         "description": "Used React Native, Python, Material-UI, ant-design for the Frontend of the mobile app. Used Geo-location to show the closest charging points near the user, which can be customized based on the user's preferences and improved the loading time by almost 1.8 times by adding cache and adding advanced algorithm to existing code. Display navigations on the user's helmet, using 3-D rendering and HUD technology to display directions from the user's app"
-      },
-      {
-        "company": "Hofars",
-        "title": "Full-Stack Software Developer",
-        "years": "March 2021 - August 2022",
-        "description": "Worked in a team, as a full-stack software developer to develop full stack web/mobile app in React.js, Python, C and MongoDB framework that serves 25000+ customers a month by helping them book services/products and also implemented Stripe CLI for payments. Assisted new interns with Python, C, React.js, React Native and WordPress and helped deliver projects on time"
       }
     ],
     "skills": [
