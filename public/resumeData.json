@@ -15,7 +15,7 @@
       "zip": "60661"
     },
     "website": "http://vistritpandey.live/",
-    "resumedownload": "Resume.pdf",
+    "resumedownload": "",
     "social": [
       {
         "name": "twitter",
@@ -50,18 +50,6 @@
       }
     ],
     "work": [
-      {
-        "company": "Blinkfire Analytics",
-        "title": "Software Engineer I (AI R&D)",
-        "years": "April 2024 - Present",
-        "description": "Worked on different Large Language Models (L.L.M.) like ChatGPT, Llama, Gemini, Anthropic. Used tools like Python, Kubernetes, Tensorflow, Docker, AWS to train our model. Used custom data to train our model for various datasets. Contributed to backend development and AI workflow. Collaborated in an agile development environment"
-      },
-      {
-        "company": "Frisco ERP",
-        "title": "Software Engineer",
-        "years": "October 2023 - March 2024",
-        "description": "Worked with clients like Bridgestone and Boeing to automate ERP processes. Used technologies like React.js, Next.js, Typescript, AWS, etc. Led end-to-end development of a comprehensive AI pipeline and integrated it with SAP and JDA. Enhanced efficiency with the implementation of AI-tools, resulting in a 2x increase in client acquisition. Reduced the manual effort needed by 7 times"
-      },
       {
         "company": "Drexel University",
         "title": "Course Assistant",
